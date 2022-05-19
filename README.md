@@ -6,6 +6,10 @@ This repository contains the R-script for the linear model procedure applied in 
 
 This code is written in R and requires the packages 'lme4' and 'readxl'.
 
+## Running the script
+
+This code will read in an excel file with the data headings of vendor, site, subj, Gender, Age, GM_fraction. Specify the name of your metabolite column on line 17.  
+
 ## Authors
 
 Kate Godfrey
