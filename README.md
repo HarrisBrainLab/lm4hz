@@ -9,7 +9,8 @@ This code is written in R and requires the packages 'lme4' and 'readxl'.
 ## Authors
 
 Kate Godfrey
-Tiffany Bell
+
+Dr. Tiffany Bell
 
 
 
