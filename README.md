@@ -4,7 +4,7 @@ This repository contains the R-script for the linear model procedure applied in 
 
 ## Prerequisites
 
-This code is written in R and requires the packages 'lme4' and 'readxl'.
+This code was written in R version 4.1.2 using the packages 'lme4' (version 1.1.27.1) and 'readxl' (version 1.3.1). 
 
 ## Running the script
 
