@@ -8,6 +8,6 @@ This code was written in R version 4.1.2 using the packages 'lme4' (version 1.1.
 
 ## Running the script
 
-This code will read in an excel file with the data headings of vendor, site, subj, Gender, Age, GM_fraction. Specify the name of your metabolite column on line 17.  
+This code will read in an excel file (.xlsx) with the data headings of vendor, site, subj, Gender, Age, GM_fraction. Specify the name of your metabolite column on line 17.  
 
 The original excel file was generated using data from the BigGABA repository which can be found at https://www.nitrc.org/projects/biggaba/
